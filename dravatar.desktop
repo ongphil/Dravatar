@@ -1,0 +1,5 @@
+[Desktop Entry]
+Name=Dravatar
+Type=Application
+Exec=lxterminal -e /home/pi/Dravatar/dravatar
+Terminal=true

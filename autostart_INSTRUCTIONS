@@ -1,0 +1,2 @@
+Copy the file "dravatar.desktop" to "/etc/xdg/autostart/"
+The executable have to be "/home/pi/Dravatar/dravatar"
